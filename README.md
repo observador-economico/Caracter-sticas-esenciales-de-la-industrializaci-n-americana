@@ -1,5 +1,4 @@
 # Características-esenciales-de-la-industrialización-americana
 Tres obstáculos principales frenaron la industrialización de los Estados Unidos, inmediatamente después de la independencia: el dominio económico de la antigua metrópoli, la escasez de mano de obra y la ausencia de vías de comunicación.
-Antes de la independencia, Gran Bretaña había procurado frenar el desarrollo industrial de sus colonias de Nueva Inglaterra. Los ingleses querían conservar a favor suyo la división del trabajo entre la metrópoli, que proporcionaba los productos manufacturados, y las colonias, que exportan las materias primas y los productos alimenticios. 
 Three main obstacles hindered the industrialization of the United States immediately after independence: the economic dominance of the former metropolis, the scarcity of labor, and the absence of transportation routes.
-Before independence, Great Britain had sought to curb the industrial development of its New England colonies. The British wanted to maintain a division of labor in their favor: the metropolis would supply manufactured goods, while the colonies exported raw materials and food products.
+
